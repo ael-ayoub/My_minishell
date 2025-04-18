@@ -95,14 +95,14 @@ minishell/
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/yourusername/minishell.git
-$ cd minishell
+git clone https://github.com/ael-ayoub/My_minishell.git
+cd My_minishell
 
 # Compile
-$ make
+make
 
 # Run
-$ ./minishell
+./minishell
 ```
 
 ---
