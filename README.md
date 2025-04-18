@@ -131,7 +131,7 @@ $ << EOF
 ---
 
 ## 📌 GitHub
-👉 [github.com/ael-ayoub/minishell](https://github.com/ael-ayoub/minishell)
+👉 [github.com/ael-ayoub/minishell](https://github.com/ael-ayoub/my_minishell)
 
 ---
 
